@@ -26,4 +26,4 @@ This project builds a continuous pricing and forecast pipeline in Google BigQuer
 * `sql/03_batch_predictions.sql` : Batch prediction and forecast error calculation
 
 ## Project Output
-* assets
+* [assets](https://github.com/SukhenduPradhan/gcp-bigquery-medical-cost-prediction/tree/63bf89799d5f988fa8026deed2649a718e428258/assets)
