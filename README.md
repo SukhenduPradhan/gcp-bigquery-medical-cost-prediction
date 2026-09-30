@@ -24,3 +24,6 @@ This project builds a continuous pricing and forecast pipeline in Google BigQuer
 * `sql/01_feature_engineering.sql` : Data prep script
 * `sql/02_model_training.sql` : BQML model training
 * `sql/03_batch_predictions.sql` : Batch prediction and forecast error calculation
+
+## Project Output
+* assets
